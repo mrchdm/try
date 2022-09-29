@@ -1,0 +1,15 @@
+/Users/mariadementeva/Documents/c#/FinalVerificationWork/task/bin/Debug/net6.0/task
+/Users/mariadementeva/Documents/c#/FinalVerificationWork/task/bin/Debug/net6.0/task.deps.json
+/Users/mariadementeva/Documents/c#/FinalVerificationWork/task/bin/Debug/net6.0/task.runtimeconfig.json
+/Users/mariadementeva/Documents/c#/FinalVerificationWork/task/bin/Debug/net6.0/task.dll
+/Users/mariadementeva/Documents/c#/FinalVerificationWork/task/bin/Debug/net6.0/task.pdb
+/Users/mariadementeva/Documents/c#/FinalVerificationWork/task/obj/Debug/net6.0/task.csproj.AssemblyReference.cache
+/Users/mariadementeva/Documents/c#/FinalVerificationWork/task/obj/Debug/net6.0/task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadementeva/Documents/c#/FinalVerificationWork/task/obj/Debug/net6.0/task.AssemblyInfoInputs.cache
+/Users/mariadementeva/Documents/c#/FinalVerificationWork/task/obj/Debug/net6.0/task.AssemblyInfo.cs
+/Users/mariadementeva/Documents/c#/FinalVerificationWork/task/obj/Debug/net6.0/task.csproj.CoreCompileInputs.cache
+/Users/mariadementeva/Documents/c#/FinalVerificationWork/task/obj/Debug/net6.0/task.dll
+/Users/mariadementeva/Documents/c#/FinalVerificationWork/task/obj/Debug/net6.0/refint/task.dll
+/Users/mariadementeva/Documents/c#/FinalVerificationWork/task/obj/Debug/net6.0/task.pdb
+/Users/mariadementeva/Documents/c#/FinalVerificationWork/task/obj/Debug/net6.0/task.genruntimeconfig.cache
+/Users/mariadementeva/Documents/c#/FinalVerificationWork/task/obj/Debug/net6.0/ref/task.dll
